@@ -1,0 +1,30 @@
+package com.alladin;
+
+public enum City {
+    VINNYTSIA,
+    DNIPROPETROVSK,
+    DONETSK,
+    ZHYTOMYR,
+    ZAPORIZHZHIA,
+    IVANOFRANKIVSK,
+    KYIV,
+    KIROVOHRAD,
+    LUHANSK,
+    LUTSK,
+    LVIV,
+    MYKOLAIV,
+    ODESA,
+    POLTAVA,
+    RIVNE,
+    SEVASTOPOL,
+    SIMFEROPOL,
+    SUMY,
+    TERNOPIL,
+    UZHHOROD,
+    KHARKIV,
+    KHERSON,
+    KHMELNYTSKYI,
+    CHERKASY,
+    CHERNIVTSI,
+    CHERNIHIV;
+}
